@@ -1,13 +1,11 @@
-# LeetCode SQL 50 Study Plan Solutions
+# 100 DAY OF PYTHON
 
-Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) syntax.
+Here are my projects using Python
 
-### Select
-
-| #    | Projects                                                                               | Theme | Status |
-| ---- | ------------------------------------------------------------------------------------- | ----- |
-| 1 | [Text to Morse Code Converter](https://github.com/AlexOksam/Python/blob/main/Projects/Text%20to%20Morse%20Code%20Converter/text_to_morse_code_converter.py)| Scripting  | DONE |
-| 2  | [Find Customer Referee]                   | Web Development  | TODO |
-| 3  | [Big Countries]                                   | GUI  | TODO |
-| 4 | [Article Views]                                 | Game  | TODO |
-| 5 | [Invalid Tweets]                               | Data Science  | TODO |
+| #    | Problem                                                                               | Level | Status |
+| ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
+| 1757 | [Recyclable and Low Fat Products](https://github.com/AlexOksam/Python/blob/main/Projects/Text%20to%20Morse%20Code%20Converter/text_to_morse_code_converter.py)| Easy  | SOLVED |
+| 584  | [Find Customer Referee](https://github.com/AlexOksam/SQL50/blob/main/584_Find_Customer_Referee.sql)                    | Easy  | SOLVED |
+| 595  | [Big Countries](https://github.com/AlexOksam/SQL50/blob/main/595_Big_Countries.sql)                                     | Easy  | SOLVED |
+| 1148 | [Article Views](https://github.com/AlexOksam/SQL50/blob/main/1148_Article_Views_I.sql)                                 | Easy  | SOLVED |
+| 1683 | [Invalid Tweets](https://github.com/AlexOksam/SQL50/blob/main/1683_Invalid_Tweets.sql)                                | Easy  | SOLVED |
