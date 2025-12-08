@@ -8,4 +8,4 @@ Here are my projects using python programming language
 | 2  | [Find Customer Referee](https://github.com/AlexOksam/SQL50/blob/main/584_Find_Customer_Referee.sql)                    | Web Development  | TODO |
 | 3  | [Big Countries](https://github.com/AlexOksam/SQL50/blob/main/595_Big_Countries.sql)                                     | GUI  | TODO |
 | 4 | [Article Views](https://github.com/AlexOksam/SQL50/blob/main/1148_Article_Views_I.sql)                                 | Data Science  | TODO |
-| 5 | [Invalid Tweets](https://github.com/AlexOksam/SQL50/blob/main/1683_Invalid_Tweets.sql)                                | GAME  | TODO |
+| 5 | [Tic Tac Toe Game](https://github.com/AlexOksam/SQL50/blob/main/1683_Invalid_Tweets.sql)                                | GAME  | TODO |
