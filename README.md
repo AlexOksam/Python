@@ -16,7 +16,7 @@ Here are my projects using python programming language
 
 | #    | Problem                                                                               | Level | Status |
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
-| 412 | [Fizz Buzz]| Easy  | - |
+| 412 | [Fizz Buzz](https://github.com/AlexOksam/Python/blob/main/Leetcode/412_Fizz_Buzz.py) | Easy  | SOLVED |
 | XXX  | [Find the Difference]                    | Easy  | - |
 | XXX  | [Find the Index of the First Occurrence in a String]                                   | Easy  | - |
 | XXX | [Valid Anagram]                                 | Easy  | - |
