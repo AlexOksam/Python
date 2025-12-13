@@ -1,4 +1,4 @@
-# 100 DAY OF PYTHON
+# Projects from 100 Days of Code AND Leetcode solutions
 
 Here are my projects using python programming language
 
