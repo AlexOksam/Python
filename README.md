@@ -17,13 +17,13 @@ Here are my projects using python programming language
 | #    | Problem                                                                               | Level | Status |
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
 | 412 | [Fizz Buzz](https://github.com/AlexOksam/Python/blob/main/Leetcode/412_Fizz_Buzz.py) | Easy  | SOLVED |
-| XXX  | [Find the Difference]                    | Easy  | - |
+| 1480  | [Running Sum of 1d Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1480_Running_Sum_of_1d_Array.py)                    | Easy  | SOLVED |
 | XXX  | [Find the Index of the First Occurrence in a String]                                   | Easy  | - |
 | XXX | [Valid Anagram]                                 | Easy  | - |
 | XXX | [Repeated Substring Pattern]                                | Easy  | - |
-| XXX | [Move Zeroes]                             | Easy  | SOLVED |
+| XXX | [Move Zeroes]                             | Easy  | - |
 | XXX | [Plus One]                               | Easy  | - |
 | XXX | [Sign of the Product of an Array]                               | Easy  | - |
 | XXX | [Can Make Arithmetic Progression From Sequence]                               | Easy  | - |
 | XXX | [Monotonic Array]                               | Easy  | - |
-| XXX | [Roman to Integer]                               | Easy  | SOLVED |
+| XXX | [Roman to Integer]                               | Easy  | - |
