@@ -19,7 +19,7 @@ Here are my projects using python programming language
 | 412 | [Fizz Buzz](https://github.com/AlexOksam/Python/blob/main/Leetcode/412_Fizz_Buzz.py) | Easy  | SOLVED |
 | 1480  | [Running Sum of 1d Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1480_Running_Sum_of_1d_Array.py)                    | Easy  | SOLVED |
 | 1  | [Two Sum](https://github.com/AlexOksam/Python/blob/main/Leetcode/1_Two_Sum.py)                                   | Easy  | SOLVED |
-| XXX | [Valid Anagram]                                 | Easy  | - |
+| 217 | [Contains Duplicate](https://github.com/AlexOksam/Python/blob/main/Leetcode/217_Contains_Duplicate.py)                                 | Easy  | - |
 | XXX | [Repeated Substring Pattern]                                | Easy  | - |
 | XXX | [Move Zeroes]                             | Easy  | - |
 | XXX | [Plus One]                               | Easy  | - |
