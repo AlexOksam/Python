@@ -27,3 +27,19 @@ Here are my projects using python programming language
 | XXX | [Can Make Arithmetic Progression From Sequence]                               | Easy  | - |
 | XXX | [Monotonic Array]                               | Easy  | - |
 | XXX | [Roman to Integer]                               | Easy  | - |
+
+### Introduction to Pandas
+
+| #    | Problem                                                                               | Level | Topic |
+| ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
+| 412 | [Create a DataFrame from List](https://github.com/AlexOksam/Python/blob/main/Leetcode/2877_Create_a_DataFrame_from_List.py) | Easy | Pandas Data Structures |
+| 2878  | [Get the Size of a DataFrame]                   | Easy  | Data Inspection |
+| 2879  | [Display the First Three Rows]                              | Easy  | Data Inspection |
+| XXX | [Contains Duplicate]                               | Easy  | - |
+| XXX | [Best Time to Buy and Sell Stock]                               | Easy  | - |
+| XXX | [Move Zeroes]                             | Easy  | - |
+| XXX | [Plus One]                               | Easy  | - |
+| XXX | [Sign of the Product of an Array]                               | Easy  | - |
+| XXX | [Can Make Arithmetic Progression From Sequence]                               | Easy  | - |
+| XXX | [Monotonic Array]                               | Easy  | - |
+| XXX | [Roman to Integer]                               | Easy  | - |
