@@ -20,7 +20,7 @@ Here are my projects using python programming language
 | 1480  | [Running Sum of 1d Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1480_Running_Sum_of_1d_Array.py)                    | Easy  | SOLVED |
 | 1  | [Two Sum](https://github.com/AlexOksam/Python/blob/main/Leetcode/1_Two_Sum.py)                                   | Easy  | SOLVED |
 | 217 | [Contains Duplicate](https://github.com/AlexOksam/Python/blob/main/Leetcode/217_Contains_Duplicate.py)                                 | Easy  | SOLVED |
-| XXX | [Repeated Substring Pattern]                                | Easy  | - |
+| 121 | [Best Time to Buy and Sell Stock](https://github.com/AlexOksam/Python/blob/main/Leetcode/121_Best_Time_to_Buy_and_Sell_Stock.py)                                | Easy  | SOLVED |
 | XXX | [Move Zeroes]                             | Easy  | - |
 | XXX | [Plus One]                               | Easy  | - |
 | XXX | [Sign of the Product of an Array]                               | Easy  | - |
