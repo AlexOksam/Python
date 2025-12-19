@@ -39,10 +39,10 @@ Here are my projects using python programming language
 | XXX | [Create a New Column]                               | Easy  | Data Selecting |
 | XXX | [Drop Duplicate Rows]                             | Easy  | Data Cleaning |
 | XXX | [Drop Missing Data]                               | Easy  | Data Cleaning |
-| XXX | [Modify Columns]                               | Easy  | - |
-| XXX | [Rename Columns]                               | Easy  | - |
-| XXX | [Change Data Type]                               | Easy  | - |
-| XXX | [Fill Missing Data]                               | Easy  | - |
+| XXX | [Modify Columns]                               | Easy  | Data Cleaning |
+| XXX | [Rename Columns]                               | Easy  | Data Cleaning |
+| XXX | [Change Data Type]                               | Easy  | Data Cleaning |
+| XXX | [Fill Missing Data]                               | Easy  | Data Cleaning |
 | XXX | [Reshape Data: Concatenate]                               | Easy  | Table Reshaping |
 | XXX | [Reshape Data: Pivot]                               | Easy  | Table Reshaping |
 | XXX | [Reshape Data: Melt]                               | Easy  | Table Reshaping |
