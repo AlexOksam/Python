@@ -41,7 +41,7 @@ Here are my projects using python programming language
 | 2883 | [Drop Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2883_Drop_Missing_Data.py)                               | Easy  | Data Cleaning |
 | 2884 | [Modify Columns](https://github.com/AlexOksam/Python/blob/main/Leetcode/2884_Modify_Columns.py)                               | Easy  | Data Cleaning |
 | 2885 | [Rename Columns](https://github.com/AlexOksam/Python/blob/main/Leetcode/2885_Rename_Columns.py)                               | Easy  | Data Cleaning |
-| XXX | [Change Data Type]                               | Easy  | Data Cleaning |
+| 2286 | [Change Data Type](https://github.com/AlexOksam/Python/blob/main/Leetcode/2886_Change_Data_Type.py)                               | Easy  | Data Cleaning |
 | XXX | [Fill Missing Data]                               | Easy  | Data Cleaning |
 | XXX | [Reshape Data: Concatenate]                               | Easy  | Table Reshaping |
 | XXX | [Reshape Data: Pivot]                               | Easy  | Table Reshaping |
