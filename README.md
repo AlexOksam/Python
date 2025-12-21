@@ -36,7 +36,7 @@ Here are my projects using python programming language
 | 2878  | [Get the Size of a DataFrame](https://github.com/AlexOksam/Python/blob/main/Leetcode/2878_Get_the_Size_of_a_DataFrame.py)                   | Easy  | Data Inspection |
 | 2879  | [Display the First Three Rows](https://github.com/AlexOksam/Python/blob/main/Leetcode/2879_Display_the_First_Three_Rows.py)                              | Easy  | Data Inspection |
 | 2880 | [Select Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2880_Select_Data.py)                               | Easy  | Data Selecting |
-| XXX | [Create a New Column]                               | Easy  | Data Selecting |
+| 2881 | [Create a New Column](https://github.com/AlexOksam/Python/blob/main/Leetcode/2881_Create_a_New_Column.py)                               | Easy  | Data Selecting |
 | XXX | [Drop Duplicate Rows]                             | Easy  | Data Cleaning |
 | XXX | [Drop Missing Data]                               | Easy  | Data Cleaning |
 | XXX | [Modify Columns]                               | Easy  | Data Cleaning |
