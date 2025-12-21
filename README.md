@@ -38,8 +38,8 @@ Here are my projects using python programming language
 | 2880 | [Select Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2880_Select_Data.py)                               | Easy  | Data Selecting |
 | 2881 | [Create a New Column](https://github.com/AlexOksam/Python/blob/main/Leetcode/2881_Create_a_New_Column.py)                               | Easy  | Data Selecting |
 | 2882 | [Drop Duplicate Rows](https://github.com/AlexOksam/Python/blob/main/Leetcode/2882_Drop_Duplicate_Rows.py)                             | Easy  | Data Cleaning |
-| XXX | [Drop Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2883_Drop_Missing_Data.py)                               | Easy  | Data Cleaning |
-| XXX | [Modify Columns]                               | Easy  | Data Cleaning |
+| 2883 | [Drop Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2883_Drop_Missing_Data.py)                               | Easy  | Data Cleaning |
+| 2884 | [Modify Columns](https://github.com/AlexOksam/Python/blob/main/Leetcode/2884_Modify_Columns.py)                               | Easy  | Data Cleaning |
 | XXX | [Rename Columns]                               | Easy  | Data Cleaning |
 | XXX | [Change Data Type]                               | Easy  | Data Cleaning |
 | XXX | [Fill Missing Data]                               | Easy  | Data Cleaning |
