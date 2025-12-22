@@ -21,7 +21,7 @@ Here are my projects using python programming language
 | 1  | [Two Sum](https://github.com/AlexOksam/Python/blob/main/Leetcode/1_Two_Sum.py)                                   | Easy  | SOLVED |
 | 217 | [Contains Duplicate](https://github.com/AlexOksam/Python/blob/main/Leetcode/217_Contains_Duplicate.py)                                 | Easy  | SOLVED |
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/AlexOksam/Python/blob/main/Leetcode/121_Best_Time_to_Buy_and_Sell_Stock.py)                                | Easy  | SOLVED |
-| XXX | [Move Zeroes]                             | Easy  | - |
+| 2011 | [Move Zeroes](https://github.com/AlexOksam/Python/blob/main/Leetcode/2011_Final_Value_of_Variable.py)                             | Easy  | SOLVED |
 | XXX | [Plus One]                               | Easy  | - |
 | XXX | [Sign of the Product of an Array]                               | Easy  | - |
 | XXX | [Can Make Arithmetic Progression From Sequence]                               | Easy  | - |
