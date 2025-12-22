@@ -22,7 +22,7 @@ Here are my projects using python programming language
 | 217 | [Contains Duplicate](https://github.com/AlexOksam/Python/blob/main/Leetcode/217_Contains_Duplicate.py)                                 | Easy  | SOLVED |
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/AlexOksam/Python/blob/main/Leetcode/121_Best_Time_to_Buy_and_Sell_Stock.py)                                | Easy  | SOLVED |
 | 2011 | [Final Value of Variable After Performing](https://github.com/AlexOksam/Python/blob/main/Leetcode/2011_Final_Value_of_Variable.py)                             | Easy  | SOLVED |
-| XXX | [Plus One]                               | Easy  | - |
+| 1512 | [Number of Good Pairs](https://github.com/AlexOksam/Python/blob/main/Leetcode/1512_Number_of_Good_Pairs.py)                               | Easy  | - |
 | XXX | [Sign of the Product of an Array]                               | Easy  | - |
 | XXX | [Can Make Arithmetic Progression From Sequence]                               | Easy  | - |
 | XXX | [Monotonic Array]                               | Easy  | - |
