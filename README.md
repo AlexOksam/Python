@@ -24,11 +24,11 @@ Here are my projects using python programming language
 | 2011 | [Final Value of Variable After Performing](https://github.com/AlexOksam/Python/blob/main/Leetcode/2011_Final_Value_of_Variable.py)    | Easy  | SOLVED |
 | 1512 | [Number of Good Pairs](https://github.com/AlexOksam/Python/blob/main/Leetcode/1512_Number_of_Good_Pairs.py)                           | Easy  | SOLVED |
 | 1470 | [Shuffle the Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1470_Shuffle_the_Array.py)                                  | Easy  | SOLVED |
-| 1431 | [Can Make Arithmetic Progression From Sequence](https://github.com/AlexOksam/Python/blob/main/Leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)                               | Easy  | SOLVED |
+| 1431 | [Kids With the Greatest Number of Candies](https://github.com/AlexOksam/Python/blob/main/Leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)                               | Easy  | SOLVED |
 | XXX | [Monotonic Array]                               | Easy  | - |
 | XXX | [Roman to Integer]                               | Easy  | - |
 
-## Leetcode - Introduction to Pandas
+### Introduction to Pandas
 
 | #    | Problem                                                                               | Level | Topic |
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
