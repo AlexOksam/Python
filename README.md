@@ -25,7 +25,7 @@ Here are my projects using python programming language
 | 1512 | [Number of Good Pairs](https://github.com/AlexOksam/Python/blob/main/Leetcode/1512_Number_of_Good_Pairs.py)                           | Easy  | SOLVED |
 | 1470 | [Shuffle the Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1470_Shuffle_the_Array.py)                                  | Easy  | SOLVED |
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/AlexOksam/Python/blob/main/Leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)                               | Easy  | SOLVED |
-| XXX | [Monotonic Array]                               | Easy  | - |
+| 2114 | [Maximum Number of Words Found in Sentences](https://github.com/AlexOksam/Python/blob/main/Leetcode/2114_Maximum_Number_of_Words_Found_in_Sentences.py)                               | Easy  | SOLVED |
 | XXX | [Roman to Integer]                               | Easy  | - |
 
 ### Introduction to Pandas
