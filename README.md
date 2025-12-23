@@ -23,8 +23,8 @@ Here are my projects using python programming language
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/AlexOksam/Python/blob/main/Leetcode/121_Best_Time_to_Buy_and_Sell_Stock.py)       | Easy  | SOLVED |
 | 2011 | [Final Value of Variable After Performing](https://github.com/AlexOksam/Python/blob/main/Leetcode/2011_Final_Value_of_Variable.py)    | Easy  | SOLVED |
 | 1512 | [Number of Good Pairs](https://github.com/AlexOksam/Python/blob/main/Leetcode/1512_Number_of_Good_Pairs.py)                           | Easy  | SOLVED |
-| XXX | [Shuffle the Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1470_Shuffle_the_Array.py)                                  | Easy  | SOLVED |
-| XXX | [Can Make Arithmetic Progression From Sequence]                               | Easy  | - |
+| 1470 | [Shuffle the Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1470_Shuffle_the_Array.py)                                  | Easy  | SOLVED |
+| 1431 | [Can Make Arithmetic Progression From Sequence](https://github.com/AlexOksam/Python/blob/main/Leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)                               | Easy  | SOLVED |
 | XXX | [Monotonic Array]                               | Easy  | - |
 | XXX | [Roman to Integer]                               | Easy  | - |
 
