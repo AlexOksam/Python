@@ -28,6 +28,8 @@ Here are my projects using python programming language
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/AlexOksam/Python/blob/main/Leetcode/2114_Maximum_Number_of_Words_Found_in_Sentences.py)                               | Easy  | SOLVED |
 | 1672 | [Richest Customer Wealth](https://github.com/AlexOksam/Python/blob/main/Leetcode/1672_Richest_Customer_Wealth.py)                               | Easy  | SOLVED |
 | 1295 | [Find Numbers with Even Number of Digits](https://github.com/AlexOksam/Python/blob/main/Leetcode/1295_Find_Numbers_with_Even_Number_of_Digits.py) | Easy | SOLVED |
+| 344 | [Reverse String](https://github.com/AlexOksam/Python/blob/main/Leetcode/344_Reverse_String.py) | Easy | SOLVED |
+| 20 | [Valid Parentheses] | Easy | TODO |
 
 ### Introduction to Pandas
 
