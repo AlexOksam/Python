@@ -30,6 +30,16 @@ Here are my projects using python programming language
 | 1295 | [Find Numbers with Even Number of Digits](https://github.com/AlexOksam/Python/blob/main/Leetcode/1295_Find_Numbers_with_Even_Number_of_Digits.py) | Easy | SOLVED |
 | 344 | [Reverse String](https://github.com/AlexOksam/Python/blob/main/Leetcode/344_Reverse_String.py) | Easy | SOLVED |
 | 20 | [Valid Parentheses] | Easy | TODO |
+| 125 | [Valid Palindrome] | Easy | TODO |
+| 14 | [Longest Common Prefix] | Easy | TODO |
+| 21 | [Merge Two Sorted Lists] | Easy | TODO |
+| 26 | [Remove Duplicates from Sorted Array] | Easy | TODO |
+| 283 | [Move Zeroes] | Easy | TODO |
+| 977 | [Squares of a Sorted Array] | Easy | TODO |
+| 122 | [Best Time to Buy and Sell Stock II] | Easy | TODO |
+| 349 | [Intersection of Two Arrays] | Easy | TODO |
+| 66 | [Plus One] | Easy | TODO |
+
 
 ### Introduction to Pandas
 
