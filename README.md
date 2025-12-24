@@ -39,7 +39,8 @@ Here are my projects using python programming language
 | 122 | [Best Time to Buy and Sell Stock II] | Easy | TODO |
 | 349 | [Intersection of Two Arrays] | Easy | TODO |
 | 66 | [Plus One] | Easy | TODO |
-
+| 169 | [Majority Element] | Easy | TODO |
+| 704 | [Binary Search] | Easy | TODO |
 
 ### Introduction to Pandas
 
