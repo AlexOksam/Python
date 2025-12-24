@@ -26,7 +26,7 @@ Here are my projects using python programming language
 | 1470 | [Shuffle the Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1470_Shuffle_the_Array.py)                                  | Easy  | SOLVED |
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/AlexOksam/Python/blob/main/Leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)                               | Easy  | SOLVED |
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/AlexOksam/Python/blob/main/Leetcode/2114_Maximum_Number_of_Words_Found_in_Sentences.py)                               | Easy  | SOLVED |
-| XXX | [Richest Customer Wealth](https://github.com/AlexOksam/Python/blob/main/Leetcode/1672_Richest_Customer_Wealth.py)                               | Easy  | SOLVED |
+| 1672 | [Richest Customer Wealth](https://github.com/AlexOksam/Python/blob/main/Leetcode/1672_Richest_Customer_Wealth.py)                               | Easy  | SOLVED |
 
 ### Introduction to Pandas
 
