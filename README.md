@@ -42,6 +42,7 @@ Here are my projects using python programming language
 | 169 | [Majority Element] | Easy | TODO |
 | 704 | [Binary Search] | Easy | TODO |
 | 389 | [Find the Difference](https://github.com/AlexOksam/Python/blob/main/Leetcode/389_Find_the_Difference.py) | Easy | SOLVED |
+| 1768 | [Merge Strings Alternately](https://github.com/AlexOksam/Python/blob/main/Leetcode/1768_Merge_Strings_Alternately.py) | Easy | SOLVED |
 
 ### Introduction to Pandas
 
