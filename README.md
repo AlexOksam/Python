@@ -31,7 +31,7 @@ Here are my projects using python programming language
 | 344 | [Reverse String](https://github.com/AlexOksam/Python/blob/main/Leetcode/344_Reverse_String.py) | Easy | SOLVED |
 | 20 | [Valid Parentheses] | Easy | TODO |
 | 125 | [Valid Palindrome](https://github.com/AlexOksam/Python/blob/main/Leetcode/125_Valid_Palindrome.py) | Easy | TODO |
-| 14 | [Longest Common Prefix] | Easy | TODO |
+| 14 | [Longest Common Prefix](https://github.com/AlexOksam/Python/blob/main/Leetcode/14_Longest_Common_Prefix.py) | Easy | TODO |
 | 21 | [Merge Two Sorted Lists] | Easy | TODO |
 | 26 | [Remove Duplicates from Sorted Array] | Easy | TODO |
 | 283 | [Move Zeroes] | Easy | TODO |
