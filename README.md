@@ -10,7 +10,7 @@ Here are my projects using python programming language
 | 4 | [Article Views](https://github.com/AlexOksam/SQL50/blob/main/1148_Article_Views_I.sql)                                 | Data Science  | TODO |
 | 5 | [Tic Tac Toe Game](https://github.com/AlexOksam/SQL50/blob/main/1683_Invalid_Tweets.sql)                                | GAME  | TODO |
 
-## Leetcode
+## Top Python Topics [Leetcode]
 
 ### Basic Implementation
 
