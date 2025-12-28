@@ -34,7 +34,6 @@ Here are my projects using python programming language
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
 | 1295 | [Find Numbers with Even Number of Digits](https://github.com/AlexOksam/Python/blob/main/Leetcode/1295_Find_Numbers_with_Even_Number_of_Digits.py) | Easy | SOLVED |
 | 344 | [Reverse String](https://github.com/AlexOksam/Python/blob/main/Leetcode/344_Reverse_String.py) | Easy | SOLVED |
-| 20 | [Valid Parentheses] | Easy | TODO |
 | 125 | [Valid Palindrome](https://github.com/AlexOksam/Python/blob/main/Leetcode/125_Valid_Palindrome.py) | Easy | TODO |
 | 14 | [Longest Common Prefix](https://github.com/AlexOksam/Python/blob/main/Leetcode/14_Longest_Common_Prefix.py) | Easy | TODO |
 | 21 | [Merge Two Sorted Lists] | Easy | TODO |
@@ -62,6 +61,17 @@ Here are my projects using python programming language
 | 204 | [Count Primes] | Medium | TODO |
 | 326 | [Power of Three] | Medium | TODO |
 | 13 | [Roman to Integer] | Easy | TODO |
+
+### Others
+
+| #    | Problem                                                                               | Level | Status |
+| ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
+| 191 | [Number of 1 Bits] | Medium | TODO |
+| 462 | [Hamming Distance] | Medium | TODO |
+| 190 | [Reverse Bits] | Easy | TODO |
+| 118 | [Pascal's Triangle] | Easy | TODO |
+| 20 | [Valid Parentheses] | Easy | TODO |
+| 268 | [Missing Number] | Medium | TODO |
 
 ### Introduction to Pandas
 
