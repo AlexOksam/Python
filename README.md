@@ -45,12 +45,20 @@ Here are my projects using python programming language
 | 389 | [Find the Difference](https://github.com/AlexOksam/Python/blob/main/Leetcode/389_Find_the_Difference.py) | Easy | SOLVED |
 | 1768 | [Merge Strings Alternately](https://github.com/AlexOksam/Python/blob/main/Leetcode/1768_Merge_Strings_Alternately.py) | Easy | SOLVED |
 | 1480  | [Running Sum of 1d Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1480_Running_Sum_of_1d_Array.py)                    | Easy  | SOLVED |
-| 121 | [Best Time to Buy and Sell Stock](https://github.com/AlexOksam/Python/blob/main/Leetcode/121_Best_Time_to_Buy_and_Sell_Stock.py)       | Easy  | SOLVED |
 | 2011 | [Final Value of Variable After Performing](https://github.com/AlexOksam/Python/blob/main/Leetcode/2011_Final_Value_of_Variable.py)    | Easy  | SOLVED |
 | 1512 | [Number of Good Pairs](https://github.com/AlexOksam/Python/blob/main/Leetcode/1512_Number_of_Good_Pairs.py)                           | Easy  | SOLVED |
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/AlexOksam/Python/blob/main/Leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)                               | Easy  | SOLVED |
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/AlexOksam/Python/blob/main/Leetcode/2114_Maximum_Number_of_Words_Found_in_Sentences.py)                               | Easy  | SOLVED |
 | 1672 | [Richest Customer Wealth](https://github.com/AlexOksam/Python/blob/main/Leetcode/1672_Richest_Customer_Wealth.py)                               | Easy  | SOLVED |
+
+### Dynamic Programming
+
+| #    | Problem                                                                               | Level | Status |
+| ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
+| 70 | [Climbing Stairs] | Easy | TODO |
+| 121 | [Best Time to Buy and Sell Stock](https://github.com/AlexOksam/Python/blob/main/Leetcode/121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy  | SOLVED |
+| 53 | [Maximum Subarray] | Medium | TODO |
+| 198 | [House Robber] | Medium | TODO |
 
 ### Others
 
