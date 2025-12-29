@@ -32,24 +32,14 @@ Here are my projects using python programming language
 
 | #    | Problem                                                                               | Level | Status |
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
-| 1295 | [Find Numbers with Even Number of Digits](https://github.com/AlexOksam/Python/blob/main/Leetcode/1295_Find_Numbers_with_Even_Number_of_Digits.py) | Easy | SOLVED |
 | 344 | [Reverse String](https://github.com/AlexOksam/Python/blob/main/Leetcode/344_Reverse_String.py) | Easy | SOLVED |
+| 7 | [Reverse Integer] | Medium | TODO |
+| 387 | [First Unique Character in a String] | Easy | TODO |
+| 242 | [Valid Anagram] | Easy | TODO |
 | 125 | [Valid Palindrome](https://github.com/AlexOksam/Python/blob/main/Leetcode/125_Valid_Palindrome.py) | Easy | TODO |
+| 8 | [String to Integer (atoi)] | Medium | TODO |
+| ? | [Implement strStr()] | ? | TODO |
 | 14 | [Longest Common Prefix](https://github.com/AlexOksam/Python/blob/main/Leetcode/14_Longest_Common_Prefix.py) | Easy | TODO |
-| 26 | [Remove Duplicates from Sorted Array] | Easy | TODO |
-| 977 | [Squares of a Sorted Array] | Easy | TODO |
-| 122 | [Best Time to Buy and Sell Stock II] | Easy | TODO |
-| 169 | [Majority Element] | Easy | TODO |
-| 704 | [Binary Search] | Easy | TODO |
-| 389 | [Find the Difference](https://github.com/AlexOksam/Python/blob/main/Leetcode/389_Find_the_Difference.py) | Easy | SOLVED |
-| 1768 | [Merge Strings Alternately](https://github.com/AlexOksam/Python/blob/main/Leetcode/1768_Merge_Strings_Alternately.py) | Easy | SOLVED |
-| 1480  | [Running Sum of 1d Array](https://github.com/AlexOksam/Python/blob/main/Leetcode/1480_Running_Sum_of_1d_Array.py)                    | Easy  | SOLVED |
-| 2011 | [Final Value of Variable After Performing](https://github.com/AlexOksam/Python/blob/main/Leetcode/2011_Final_Value_of_Variable.py)    | Easy  | SOLVED |
-| 1512 | [Number of Good Pairs](https://github.com/AlexOksam/Python/blob/main/Leetcode/1512_Number_of_Good_Pairs.py)                           | Easy  | SOLVED |
-| 1431 | [Kids With the Greatest Number of Candies](https://github.com/AlexOksam/Python/blob/main/Leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)                               | Easy  | SOLVED |
-| 2114 | [Maximum Number of Words Found in Sentences](https://github.com/AlexOksam/Python/blob/main/Leetcode/2114_Maximum_Number_of_Words_Found_in_Sentences.py)                               | Easy  | SOLVED |
-| 1672 | [Richest Customer Wealth](https://github.com/AlexOksam/Python/blob/main/Leetcode/1672_Richest_Customer_Wealth.py)                               | Easy  | SOLVED |
-
 
 ### Linked List
 
