@@ -51,6 +51,16 @@ Here are my projects using python programming language
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/AlexOksam/Python/blob/main/Leetcode/2114_Maximum_Number_of_Words_Found_in_Sentences.py)                               | Easy  | SOLVED |
 | 1672 | [Richest Customer Wealth](https://github.com/AlexOksam/Python/blob/main/Leetcode/1672_Richest_Customer_Wealth.py)                               | Easy  | SOLVED |
 
+### Trees
+
+| #    | Problem                                                                               | Level | Status |
+| ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
+| 104 | [Maximum Depth of Binary Tree] | Easy | TODO |
+| 98 | [Validate Binary Search Tree] | Medium | TODO |
+| 101 | [Symmetric Tree] | Easy | TODO |
+| 102 | [Binary Tree Level Order Traversal] | Medium | TODO |
+| 108 | [Convert Sorted Array to Binary Search Tree] | Easy | TODO |
+
 ### Sorting and Searching
 
 | #    | Problem                                                                               | Level | Status |
