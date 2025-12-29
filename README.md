@@ -36,7 +36,6 @@ Here are my projects using python programming language
 | 344 | [Reverse String](https://github.com/AlexOksam/Python/blob/main/Leetcode/344_Reverse_String.py) | Easy | SOLVED |
 | 125 | [Valid Palindrome](https://github.com/AlexOksam/Python/blob/main/Leetcode/125_Valid_Palindrome.py) | Easy | TODO |
 | 14 | [Longest Common Prefix](https://github.com/AlexOksam/Python/blob/main/Leetcode/14_Longest_Common_Prefix.py) | Easy | TODO |
-| 21 | [Merge Two Sorted Lists] | Easy | TODO |
 | 26 | [Remove Duplicates from Sorted Array] | Easy | TODO |
 | 977 | [Squares of a Sorted Array] | Easy | TODO |
 | 122 | [Best Time to Buy and Sell Stock II] | Easy | TODO |
@@ -50,6 +49,18 @@ Here are my projects using python programming language
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/AlexOksam/Python/blob/main/Leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)                               | Easy  | SOLVED |
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/AlexOksam/Python/blob/main/Leetcode/2114_Maximum_Number_of_Words_Found_in_Sentences.py)                               | Easy  | SOLVED |
 | 1672 | [Richest Customer Wealth](https://github.com/AlexOksam/Python/blob/main/Leetcode/1672_Richest_Customer_Wealth.py)                               | Easy  | SOLVED |
+
+
+### Linked List
+
+| #    | Problem                                                                               | Level | Status |
+| ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
+| 237 | [Delete Node in a Linked List] | Medium | TODO |
+| 19 | [Remove Nth Node From End of List] | Medium | TODO |
+| 206 | [Reverse Linked List] | Easy | TODO |
+| 21 | [Merge Two Sorted Lists] | Easy | TODO |
+| 234 | [Palindrome Linked List] | Easy | TODO |
+| 141 | [Linked List Cycle] | Easy | TODO |
 
 ### Trees
 
