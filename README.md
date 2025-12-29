@@ -51,6 +51,13 @@ Here are my projects using python programming language
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/AlexOksam/Python/blob/main/Leetcode/2114_Maximum_Number_of_Words_Found_in_Sentences.py)                               | Easy  | SOLVED |
 | 1672 | [Richest Customer Wealth](https://github.com/AlexOksam/Python/blob/main/Leetcode/1672_Richest_Customer_Wealth.py)                               | Easy  | SOLVED |
 
+### Sorting and Searching
+
+| #    | Problem                                                                               | Level | Status |
+| ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
+| 88 | [Merge Sorted Array] | Easy | TODO |
+| 278 | [First Bad Version] | Easy | TODO |
+
 ### Dynamic Programming
 
 | #    | Problem                                                                               | Level | Status |
