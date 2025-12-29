@@ -24,7 +24,7 @@ Here are my projects using python programming language
 | 349 | [Intersection of Two Arrays] | Easy | TODO |
 | 350 | [Intersection of Two Arrays II] | Easy | TODO |
 | 66 | [Plus One] | Easy | TODO |
-| 283 | [Move Zeroes] | Easy | TODO |
+| 283 | [Move Zeroes](https://github.com/AlexOksam/Python/blob/main/Leetcode/283_Move_Zeroes.py) | Easy | SOLVED |
 | 1  | [Two Sum](https://github.com/AlexOksam/Python/blob/main/Leetcode/1_Two_Sum.py)  | Easy  | SOLVED |
 | 283 | [Rotate Image] | Medium | TODO |
 
