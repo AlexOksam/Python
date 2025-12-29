@@ -20,7 +20,7 @@
 | 14 | [Longest Common Prefix](https://github.com/AlexOksam/Python/blob/main/Leetcode/14_Longest_Common_Prefix.py) | Easy | TODO |
 | 21 | [Merge Two Sorted Lists] | Easy | TODO |
 | 26 | [Remove Duplicates from Sorted Array] | Easy | TODO |
-| 283 | [Move Zeroes] | Easy | TODO |
+| 283 | [Move Zeroes](https://github.com/AlexOksam/Python/blob/main/Leetcode/283_Move_Zeroes.py) | Easy | TODO |
 | 977 | [Squares of a Sorted Array] | Easy | TODO |
 | 122 | [Best Time to Buy and Sell Stock II] | Easy | TODO |
 | 349 | [Intersection of Two Arrays] | Easy | TODO |
