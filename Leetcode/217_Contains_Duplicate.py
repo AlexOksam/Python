@@ -8,7 +8,7 @@ class Solution:
                     return True
         return False
 
-# More faster
+# FASTER
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
