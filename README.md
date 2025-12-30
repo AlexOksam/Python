@@ -120,7 +120,7 @@ Here are my projects using python programming language
 | 2885 | [Rename Columns](https://github.com/AlexOksam/Python/blob/main/Leetcode/2885_Rename_Columns.py)                               | Easy  | Data Cleaning |
 | 2286 | [Change Data Type](https://github.com/AlexOksam/Python/blob/main/Leetcode/2886_Change_Data_Type.py)                               | Easy  | Data Cleaning |
 | 2287 | [Fill Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2887_Fill_Missing_Data.py)                               | Easy  | Data Cleaning |
-| XXX | [Reshape Data: Concatenate]                               | Easy  | Table Reshaping |
+| 2288 | [Reshape Data: Concatenate](https://github.com/AlexOksam/Python/blob/main/Leetcode/2888_Reshape_Data_Concatenate.py)                               | Easy  | Table Reshaping |
 | XXX | [Reshape Data: Pivot]                               | Easy  | Table Reshaping |
 | XXX | [Reshape Data: Melt]                               | Easy  | Table Reshaping |
 | XXX | [Method Chaining]                               | Easy  | Advanced Techniques |
