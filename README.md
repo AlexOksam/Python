@@ -110,17 +110,17 @@ Here are my projects using python programming language
 | #    | Problem                                                                               | Level | Topic |
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
 | 412 | [Create a DataFrame from List](https://github.com/AlexOksam/Python/blob/main/Leetcode/2877_Create_a_DataFrame_from_List.py) | Easy | Pandas Data Structures |
-| 2878  | [Get the Size of a DataFrame](https://github.com/AlexOksam/Python/blob/main/Leetcode/2878_Get_the_Size_of_a_DataFrame.py)                   | Easy  | Data Inspection |
-| 2879  | [Display the First Three Rows](https://github.com/AlexOksam/Python/blob/main/Leetcode/2879_Display_the_First_Three_Rows.py)                              | Easy  | Data Inspection |
+| 2878  | [Get the Size of a DataFrame](https://github.com/AlexOksam/Python/blob/main/Leetcode/2878_Get_the_Size_of_a_DataFrame.py)      | Easy  | Data Inspection |
+| 2879  | [Display the First Three Rows](https://github.com/AlexOksam/Python/blob/main/Leetcode/2879_Display_the_First_Three_Rows.py)    | Easy  | Data Inspection |
 | 2880 | [Select Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2880_Select_Data.py)                               | Easy  | Data Selecting |
-| 2881 | [Create a New Column](https://github.com/AlexOksam/Python/blob/main/Leetcode/2881_Create_a_New_Column.py)                               | Easy  | Data Selecting |
-| 2882 | [Drop Duplicate Rows](https://github.com/AlexOksam/Python/blob/main/Leetcode/2882_Drop_Duplicate_Rows.py)                             | Easy  | Data Cleaning |
-| 2883 | [Drop Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2883_Drop_Missing_Data.py)                               | Easy  | Data Cleaning |
-| 2884 | [Modify Columns](https://github.com/AlexOksam/Python/blob/main/Leetcode/2884_Modify_Columns.py)                               | Easy  | Data Cleaning |
-| 2885 | [Rename Columns](https://github.com/AlexOksam/Python/blob/main/Leetcode/2885_Rename_Columns.py)                               | Easy  | Data Cleaning |
-| 2286 | [Change Data Type](https://github.com/AlexOksam/Python/blob/main/Leetcode/2886_Change_Data_Type.py)                               | Easy  | Data Cleaning |
-| 2287 | [Fill Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2887_Fill_Missing_Data.py)                               | Easy  | Data Cleaning |
-| 2288 | [Reshape Data: Concatenate](https://github.com/AlexOksam/Python/blob/main/Leetcode/2888_Reshape_Data_Concatenate.py)                               | Easy  | Table Reshaping |
-| XXX | [Reshape Data: Pivot]                               | Easy  | Table Reshaping |
+| 2881 | [Create a New Column](https://github.com/AlexOksam/Python/blob/main/Leetcode/2881_Create_a_New_Column.py)               | Easy  | Data Selecting |
+| 2882 | [Drop Duplicate Rows](https://github.com/AlexOksam/Python/blob/main/Leetcode/2882_Drop_Duplicate_Rows.py)               | Easy  | Data Cleaning |
+| 2883 | [Drop Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2883_Drop_Missing_Data.py)                   | Easy  | Data Cleaning |
+| 2884 | [Modify Columns](https://github.com/AlexOksam/Python/blob/main/Leetcode/2884_Modify_Columns.py)                         | Easy  | Data Cleaning |
+| 2885 | [Rename Columns](https://github.com/AlexOksam/Python/blob/main/Leetcode/2885_Rename_Columns.py)                         | Easy  | Data Cleaning |
+| 2286 | [Change Data Type](https://github.com/AlexOksam/Python/blob/main/Leetcode/2886_Change_Data_Type.py)                     | Easy  | Data Cleaning |
+| 2287 | [Fill Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2887_Fill_Missing_Data.py)                   | Easy  | Data Cleaning |
+| 2288 | [Reshape Data: Concatenate](https://github.com/AlexOksam/Python/blob/main/Leetcode/2888_Reshape_Data_Concatenate.py)    | Easy  | Table Reshaping |
+| XXX | [Reshape Data: Pivot](https://github.com/AlexOksam/Python/blob/main/Leetcode/2889_Reshape_Data_Pivot.py)                 | Easy  | Table Reshaping |
 | XXX | [Reshape Data: Melt]                               | Easy  | Table Reshaping |
 | XXX | [Method Chaining]                               | Easy  | Advanced Techniques |
