@@ -121,6 +121,6 @@ Here are my projects using python programming language
 | 2286 | [Change Data Type](https://github.com/AlexOksam/Python/blob/main/Leetcode/2886_Change_Data_Type.py)                     | Easy  | Data Cleaning |
 | 2287 | [Fill Missing Data](https://github.com/AlexOksam/Python/blob/main/Leetcode/2887_Fill_Missing_Data.py)                   | Easy  | Data Cleaning |
 | 2288 | [Reshape Data: Concatenate](https://github.com/AlexOksam/Python/blob/main/Leetcode/2888_Reshape_Data_Concatenate.py)    | Easy  | Table Reshaping |
-| XXX | [Reshape Data: Pivot](https://github.com/AlexOksam/Python/blob/main/Leetcode/2889_Reshape_Data_Pivot.py)                 | Easy  | Table Reshaping |
-| XXX | [Reshape Data: Melt]                               | Easy  | Table Reshaping |
-| XXX | [Method Chaining]                               | Easy  | Advanced Techniques |
+| 2289 | [Reshape Data: Pivot](https://github.com/AlexOksam/Python/blob/main/Leetcode/2889_Reshape_Data_Pivot.py)                | Easy  | Table Reshaping |
+| 2290 | [Reshape Data: Melt](https://github.com/AlexOksam/Python/blob/main/Leetcode/2890_Reshape_Data_Melt.py)                  | Easy  | Table Reshaping |
+| 2291 | [Method Chaining]                               | Easy  | Advanced Techniques |
