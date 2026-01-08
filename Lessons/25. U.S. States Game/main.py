@@ -12,17 +12,24 @@ t.hideturtle()
 t.penup()
 
 data = pd.read_csv("50_states.csv")
+all_states= data.state.to_list()
+guessed_states = []
 
-counter = 0
-frame = True
 
-while frame:
-    answer_state = screen.textinput(title=f"{counter}/50 States Correct", prompt="What's another state's name?").title()
-    if len(data[data.state == answer_state]) == 1:
-        x = float(data.x[data.state == answer_state])
-        y = float(data.y[data.state == answer_state])
-        t.goto(x, y)
-        t.write(answer_state, align="center", font=("Arial", 12, "normal"))
-        counter += 1
-        
+
+while len(guessed_states) < 50:
+    answer_state = screen.textinput(title=f"{len(guessed_states)}/50 States Correct", prompt="What's another state's name?").title()
+    if answer_state == "Exit" or answer_state == "Break":
+        missing_states = []
+        for state in all_states:
+            if state not in guessed_states:
+                missing_states.append(state)
+        new_data = pd.DataFrame(missing_states)
+        new_data.to_csv("states_to_learn.csv")
+        break
+    if answer_state in all_states:
+        guessed_states.append(answer_state)
+        state_data = data[data.state == answer_state]
+        t.goto(state_data.x.item(), state_data.y.item())
+        t.write(answer_state)
     else: continue
