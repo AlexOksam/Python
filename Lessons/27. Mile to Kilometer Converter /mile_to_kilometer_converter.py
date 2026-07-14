@@ -14,16 +14,18 @@ miles_text.grid(column=2, row=0)
 kilometers_text = tkinter.Label(text="Kilometers", font=("Arial", 16))
 kilometers_text.grid(column=2, row=1)
 
-change_text = tkinter.Label(text="0", font=("Arial", 16))
-change_text.grid(column=1, row=1)
+result = tkinter.Label(text="0", font=("Arial", 16))
+result.grid(column=1, row=1)
 
-def change_text_funktion():
-    change_text.config(text=float(input_field.get()) * 1.60934)
+def miles_to_km():
+    miles = float(input_field.get())
+    km = miles * 1.61
+    result.config(text=km)
 
-my_button = tkinter.Button(text="Calculate", command=change_text_funktion, font=("Arial", 16))
+my_button = tkinter.Button(text="Calculate", command=miles_to_km, font=("Arial", 16))
 my_button.grid(column=1, row=2)
 
-input_field = tkinter.Entry(width=10, font=("Arial", 16))
+input_field = tkinter.Entry(width=8, font=("Arial", 16))
 input_field.grid(column=1, row=0)
 
 window.mainloop()
